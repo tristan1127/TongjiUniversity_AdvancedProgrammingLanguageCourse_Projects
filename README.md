@@ -1,2 +1,2 @@
 # Tongji-University-Advanced-Programming-Languages-Course-Projects
-Collection of C++ mini-games for Tongji University's Advanced Programming Course: Tower of Hanoi &amp; Minesweeper.
+同济大学 高级程序语言设计 2025秋（高程 沈坚）
