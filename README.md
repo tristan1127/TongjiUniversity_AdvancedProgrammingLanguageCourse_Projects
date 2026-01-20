@@ -1,7 +1,7 @@
 # Tongji-University-Advanced-Programming-Languages-Course-Projects
 同济大学 高级程序语言设计 2025秋（高程 沈坚）
 ---
-##⚠️ Attention
+## ⚠️ Attention
 本项目仅供参考与学习交流使用。
 请遵守学术诚信，独立完成作业。
 “可以挑战，承担后果就行。”
@@ -10,8 +10,6 @@
     大作业
         🌀 汉诺塔问题：递归实现与可视化
         💣 扫雷游戏：算法设计与图形化界面
-
-        📧 联系我：tristanisolde08@gmail.com
 
 ⚖️ 协议
 
