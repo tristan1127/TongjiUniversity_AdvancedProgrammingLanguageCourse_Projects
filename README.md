@@ -30,4 +30,4 @@
 本项目基于 **MIT License** 协议发布。
 
 ## ✨ 联系我
-如有问题或建议，请联系：[tristanisolde08@gmail.com](mailto:tristanisolde08@gmail.com)
+如有问题或建议，请联系：[tristanisolde08@gmail.com](mailto:tristanisolde08@gmail.com)，欢迎交流学习
